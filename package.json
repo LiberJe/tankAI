@@ -1,0 +1,28 @@
+{
+  "name": "tankai",
+  "version": "1.0.0",
+  "description": "tank ai",
+  "main": "tank.js",
+  "dependencies": {
+    "hilbert": "^2.0.0",
+    "lowdb": "^1.0.0",
+    "request": "^2.83.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiberJe/tankAI.git"
+  },
+  "keywords": [
+    "tank"
+  ],
+  "author": "JeLewine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LiberJe/tankAI/issues"
+  },
+  "homepage": "https://github.com/LiberJe/tankAI#readme"
+}
