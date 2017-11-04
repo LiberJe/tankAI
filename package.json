@@ -4,7 +4,9 @@
   "description": "tank ai",
   "main": "tank.js",
   "dependencies": {
+    "co": "^4.6.0",
     "hilbert": "^2.0.0",
+    "isomorphic-fetch": "^2.2.1",
     "lowdb": "^1.0.0",
     "request": "^2.83.0"
   },
